@@ -1,0 +1,33 @@
+http://www.geeksforgeeks.org/fundamentals-of-algorithms/
+http://www.tutorialspoint.com/data_structures_algorithms/index.htm
+https://www.khanacademy.org/computing/computer-science/algorithms
+https://www.youtube.com/playlist?list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3U
+https://github.com/jazemzer/CodePractice/tree/master/XamarinWorkbooks
+
+https://vimeo.com/161783929/dba6a42ad3
+www.geeksforgeeks.org/counting-inversions/
+http://www.learninglover.com/examples.php?id=9
+https://www.coursera.org/learn/algorithm-design-analysis
+https://docs.google.com/document/d/15F1QBlStyBPOLx4UKFtZjuwKFxM5e6YHQGEyhCui2IQ/edit
+http://stackoverflow.com/documentation
+https://university.mongodb.com/courses/MongoDB/M101JS/2016_August/syllabus
+https://courses.edx.org/course_modes/choose/course-v1:MongoDBx+M101x+2T2016/
+https://news.microsoft.com/2016/07/13/microsoft-announces-professional-degree-program/#sm.0001ufvjf7gfxfotwmr1jg5exn23l
+http://alf.nu/ReturnTrue
+https://github.com/git-deploy/git-deploy
+http://bigocheatsheet.com/
+http://www.vinaysahni.com/best-practices-for-building-a-microservice-architecture
+http://www.oreilly.com/webops-perf/free/
+
+
+Binary Search
+BubbleSort
+InsertionSort
+MergeSort  [Counting Inversions]
+SelectionSort
+
+
+HeapSort
+QuickSort
+CountingSort  -- Ensire it works with negative numbers and cases without zero (shifted input)
+BucketSort
